@@ -35,11 +35,12 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=ica
-  license: GPL (>= 2)
+  license: GPL-2.0-or-later
   summary: 'Independent Component Analysis (ICA) using various algorithms: FastICA, Information-Maximization
     (Infomax), and Joint Approximate Diagonalization of Eigenmatrices (JADE).'
   license_family: GPL3
-  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'
+  license_file:
+    - {{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2
 
 extra:
   recipe-maintainers:
