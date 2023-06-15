@@ -1,11 +1,11 @@
-About r-ica
-===========
+About r-ica-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ica-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ica
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ica-feedstock/blob/main/LICENSE.txt)
 
 Summary: Independent Component Analysis (ICA) using various algorithms: FastICA, Information-Maximization (Infomax), and Joint Approximate Diagonalization of Eigenmatrices (JADE).
 
